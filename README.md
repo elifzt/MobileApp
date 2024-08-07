@@ -1,5 +1,4 @@
-![detailpage](https://github.com/user-attachments/assets/5eb45ed3-3372-496a-866c-a36afc3d00cf)
-![resim_2024-08-07_162056936](https://github.com/user-attachments/assets/da61ab02-5488-48ef-9a36-44bce0c01306)
+
 # 24 TV Clone Application
 This application consists of two pages. 
 - One of them home page that shows live feed and news
