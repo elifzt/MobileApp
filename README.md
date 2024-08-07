@@ -28,6 +28,4 @@ Using the following APIs:
 
 Home Page | Detail Page | PiP Mode
 :-------------------------:|:-------------------------:|:-------------------------:
-![homepage](https://github.com/user-attachments/assets/0331d90c-d72c-4993-807c-8bb614a51c44)
-![detailpage](https://github.com/user-attachments/assets/78464ef5-a163-4e76-adb1-7e26a64c3816)
-![pipmode](https://github.com/user-attachments/assets/f4921d19-02f5-4a41-afc9-35d6ed5bda22)
+![homepage](https://github.com/user-attachments/assets/0331d90c-d72c-4993-807c-8bb614a51c44)|![detailpage](https://github.com/user-attachments/assets/78464ef5-a163-4e76-adb1-7e26a64c3816)|![pipmode](https://github.com/user-attachments/assets/f4921d19-02f5-4a41-afc9-35d6ed5bda22)
