@@ -28,9 +28,8 @@ Using the following APIs:
 
 Home Page | Detail Page | PiP Mode
 :-------------------------:|:-------------------------:|:-------------------------:
-![homepage](https://github.com/user-attachments/assets/48fa24ac-6338-4611-ab6a-def540fabd5f)
-![detailpage](https://github.com/user-attachments/assets/5facd293-2c54-452e-9525-176fef854f7e)
-![pipmode](https://github.com/user-attachments/assets/c4954ffc-6932-4ee3-be9a-0a6ae652bb9a)
+![homepage](https://github.com/user-attachments/assets/2053dbb6-26fd-4bc8-802b-bcc84d10418b)
+
 
 
 
