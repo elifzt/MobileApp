@@ -29,9 +29,7 @@ Using the following APIs:
 ## Screens
 
 Home Page | Detail Page | PiP Mode
-:-------
-------------------:|:-------------------------:|:-------------------------:
-![homepage](https://github.com/user-attachments/assets/1083787c-37b1-49f2-9f69-429b9131167b)
-![detailpage](https://github.com/user-attachments/assets/71a9add4-0811-474d-ae7b-8d9ab8bdc0bd)
-![pipmode](https://github.com/user-attachments/assets/535aa7ae-5ce3-4836-9110-2cf4af1931ab)
-
+:-------------------------:|:-------------------------:|:-------------------------:
+![detailpage](https://github.com/user-attachments/assets/e8de7e27-4297-47de-b430-6e3b9985e6a6)
+![pipmode](https://github.com/user-attachments/assets/0dd92651-ff54-462b-90cb-97db34c04672)
+![homepage](https://github.com/user-attachments/assets/3329e272-5a9e-4d96-91e9-4481d05b12ab)
