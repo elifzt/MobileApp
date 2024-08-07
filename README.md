@@ -28,6 +28,5 @@ Using the following APIs:
 
 Home Page | Detail Page | PiP Mode
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/busrakizilaslan/24TvCloneApp/blob/master/homepage.png)|![](https://github.com/busrakizilaslan/24TvCloneApp/blob/master/detailpage.png)|![](https://github.com/busrakizilaslan/24TvCloneApp/blob/master/pipmode.png)
 
 
