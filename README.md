@@ -21,7 +21,6 @@ Using the following APIs:
 - [Hilt](https://dagger.dev/hilt/) - Dependency Injection library based on dagger
 - [Jetpack Navigation](https://developer.android.com/guide/navigation/navigation-getting-started) - Navigation library
 - [SafeArgs](https://developer.android.com/guide/navigation/navigation-getting-started#ensure_type-safety_by_using_safe_args) - Type safe navigation
-- [Picasso](https://square.github.io/picasso/) - A powerful image downloading and caching library for Android
 
 ### Networking
 - [Retrofit](https://square.github.io/retrofit/) - Rest Client
@@ -30,6 +29,6 @@ Using the following APIs:
 
 Home Page | Detail Page | PiP Mode
 :-------------------------:|:-------------------------:|:-------------------------:
-![detailpage](https://github.com/user-attachments/assets/e8de7e27-4297-47de-b430-6e3b9985e6a6)
-![pipmode](https://github.com/user-attachments/assets/0dd92651-ff54-462b-90cb-97db34c04672)
-![homepage](https://github.com/user-attachments/assets/3329e272-5a9e-4d96-91e9-4481d05b12ab)
+![homepage](https://github.com/user-attachments/assets/0331d90c-d72c-4993-807c-8bb614a51c44)
+![detailpage](https://github.com/user-attachments/assets/78464ef5-a163-4e76-adb1-7e26a64c3816)
+![pipmode](https://github.com/user-attachments/assets/f4921d19-02f5-4a41-afc9-35d6ed5bda22)
