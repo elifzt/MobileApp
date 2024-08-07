@@ -31,7 +31,6 @@ Using the following APIs:
 Home Page | Detail Page | PiP Mode
 :-------------------------:|:-------------------------:|:-------------------------:
 ![homepa![homepage](https://github.com/user-attachments/assets/071496c6-73f2-4da0-a8f2-ea5a811ec6ec)
-ge](https://github.com/user-attachments/assets/2053dbb6-26fd-4bc8-802b-bcc84d10418b)
 ![detailpage](https://github.com/user-attachments/assets/71a9add4-0811-474d-ae7b-8d9ab8bdc0bd)
 
 
